@@ -30,7 +30,10 @@ public class App {
 
         //salida de datos por consola
         System.out.println("El nombre del estudiante es: "+nombres);
-           //completar la salida de datos
+        System.out.println("La edad del estudiante es: "+edad);
+        System.out.println("El salario del estudiante es: "+salario);
+        System.out.println("El sexo del estudiante es: "+sexo);
+        System.out.println("El estado del estudiante es: "+estado);
 
 
 
